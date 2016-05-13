@@ -1,0 +1,10 @@
+{
+	"name": "One Big Battery",
+	"version": "0.1",
+	"title": "One Big Battery",
+	"author": "Daejang",
+	"homepage": "",
+	"dependencies": ["base >= 0.12.29"],
+	"description": "Did you accidentally made too many batteries? Don't have enough room for wimpy basic accumulators to power your massive base over night? Then it is time that your acquired our eco-friendly B-series batteries for your power-hungry, smog factory."
+}
+
